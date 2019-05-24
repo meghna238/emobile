@@ -1,0 +1,4 @@
+<?php $x0 = $this->xml;
+$v3_0 = $x0->xpath("businessname[1]");
+$v3_1 = $x0->xpath("city[1]");
+echo $this->getValue($v3_0);echo $this->getValue($v3_1);

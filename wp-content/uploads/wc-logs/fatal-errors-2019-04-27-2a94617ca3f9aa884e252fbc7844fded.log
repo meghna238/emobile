@@ -1,0 +1,120 @@
+2019-04-27T12:25:55+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:01+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:22+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:38+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:52+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:56+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:58+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:26:59+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2430): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 148
+
+2019-04-27T12:40:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\emobile\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-27T13:41:14+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:42:00+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:42:23+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:42:35+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:43:59+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:44:04+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:44:11+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:44:16+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:44:22+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:46:18+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:50:34+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:50:43+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:51:24+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:51:30+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-27T13:54:38+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+

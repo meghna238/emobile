@@ -1,0 +1,74 @@
+2019-04-30T04:44:37+00:00 CRITICAL Uncaught Exception: Table 'C:\xampp\tmp\#sql3988_47_e.MAI' is read only in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:89
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\import\record.php(1723): PMXI_Model_Record->update()
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2577): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 81, false, '/pmxi_records', 20)
+#2 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#4 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action('admin_init')
+#7 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 89
+
+2019-04-30T04:50:24+00:00 CRITICAL Uncaught Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:89
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\import\record.php(1723): PMXI_Model_Record->update()
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2577): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 261, false, '/pmxi_records', 20)
+#2 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#4 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action( in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 89
+
+2019-04-30T04:51:24+00:00 CRITICAL Uncaught Exception: Table 'C:\xampp\tmp\#sql3988_66_9.MAI' is read only in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:78
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php(114): PMXI_Model_Record->insert()
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2262): PMXI_Model_Record->save()
+#2 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\manage.php(493): PMXI_Admin_Import->process()
+#3 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(651): PMXI_Admin_Manage->update()
+#4 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminDispatcher('')
+#5 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\emobile\wp-admin\admin.php(253): do_action('all-import_page...')
+#8 {main}
+  thrown in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 78
+
+2019-04-30T04:52:06+00:00 CRITICAL Uncaught Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:89
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\import\record.php(1723): PMXI_Model_Record->update()
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2577): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 301, false, '/pmxi_records', 20)
+#2 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(591): PMXI_Admin_Import->process()
+#3 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#4 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\emobile\wp-admin\admin.php(169): do_action( in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 89
+
+2019-04-30T05:09:00+00:00 CRITICAL Uncaught Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php:102
+Stack trace:
+#0 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\file\record.php(81): PMXI_Model_Record->delete()
+#1 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\import.php(2295): PMXI_File_Record->delete(true)
+#2 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\controllers\admin\manage.php(493): PMXI_Admin_Import->process()
+#3 C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\plugin.php(651): PMXI_Admin_Manage->update()
+#4 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminDispatcher('')
+#5 C:\xampp\htdocs\emobile\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\emobile\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 C:\x in C:\xampp\htdocs\emobile\wp-content\plugins\wp-all-import\models\model\record.php on line 102
+
+2019-04-30T05:09:35+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:09:40+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:09:43+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:09:47+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:09:51+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:09:55+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:10:01+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:10:14+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-30T05:10:28+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+

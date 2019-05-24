@@ -1,0 +1,27 @@
+<?php $x0 = $this->xml;
+$v1_0 = $x0->xpath("address[1]");
+$v1_1 = $x0->xpath("city[1]");
+$v1_2 = $x0->xpath("pincode[1]");
+$v1_3 = $x0->xpath("established[1]");
+$v1_4 = $x0->xpath("payments[1]");
+$v1_5 = $x0->xpath("tags[1]");
+$v1_6 = $x0->xpath("email1[1]");
+$v1_7 = $x0->xpath("whatsapp[1]");
+$v1_8 = $x0->xpath("phone1[1]");
+echo $this->getValue($v1_0);?>,
+
+<?php echo $this->getValue($v1_1);?>,
+
+<?php echo $this->getValue($v1_2);?>,
+
+<?php echo $this->getValue($v1_3);?>,
+
+<?php echo str_replace("  ", ",", $this->getValue($v1_4));?>,
+
+<?php echo str_replace("  ", ",", $this->getValue($v1_5));?>,
+
+<?php echo $this->getValue($v1_6);?>,
+
+<?php echo $this->getValue($v1_7);?>,
+
+<?php echo $this->getValue($v1_8);

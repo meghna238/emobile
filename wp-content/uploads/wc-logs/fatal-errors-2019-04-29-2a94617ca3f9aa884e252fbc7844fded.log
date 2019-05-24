@@ -1,0 +1,42 @@
+2019-04-29T06:15:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\emobile\wp-includes\Requests\Transport\cURL.php on line 162
+
+2019-04-29T06:15:40+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:20:13+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:20:16+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:20:26+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:20:33+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:20:39+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:21:02+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:21:14+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:21:21+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:22:52+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:24:12+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:27:48+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:27:50+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:31:29+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:39:25+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:39:29+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:39:36+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:59:22+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T06:59:26+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\emobile\wp-content\themes\accesspress-store\inc\accesspress-function.php on line 531
+
+2019-04-29T07:50:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\emobile\wp-includes\wp-db.php on line 2007
+
